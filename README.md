@@ -2,6 +2,8 @@
 
 A single-page website for The Fitness Freak Gym in Chandan Nagar / Kharadi, Pune.
 
+Live website: <https://strong-unicorn-f6a8e0.netlify.app/>
+
 ## Features
 
 - Strength and conditioning focused gym presentation
